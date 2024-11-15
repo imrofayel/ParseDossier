@@ -1,0 +1,37 @@
+
+{
+  "h1": {
+    "title": "Automate Data Extraction, Effortlessly.",
+    "class": "heading-h1"
+  },
+
+  "h2": {
+    "title": "Liberating Information From Your HR Documents Is A Snap.",
+    "class": "heading-h2"
+  },
+
+  "h3": {
+    "title": "Convert Your Data to Any Filetype, Easily.",
+    "class": "heading-h3"
+  },
+
+  "h4": {
+    "title": "One Click Conversion",
+    "class": "heading-h4"
+  },
+
+  "h5": {
+    "title": "Starter, Professional, Enterprise",
+    "class": "heading-h5"
+  },
+  
+  "h6": {
+    "title": "Is DocConv safe to use?",
+    "class": "heading-h6"
+  },
+
+  "p": {
+    "title": "Making the data extraction effortless for thousands of companies. Seamlessly export data in numerous formats.",
+    "class": "paragraph"
+  }
+}
