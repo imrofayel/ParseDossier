@@ -6,6 +6,8 @@
         class="w-full max-w-md px-4 py-2 border dark:border-gray-900 border-gray-100 shadow-gray-100 dark:shadow-gray-800 shadow-lg bg-white dark:bg-black/30 rounded-full focus:outline-none placeholder:text-gray-300 my-6" 
     />
 
+    <div class="py-3 text-lg inter ">If you see any missing color, you can add and mention on your PRs but dont change existing colors before checking all the components using it.</div>
+
     <div v-if="Object.keys(filteredColors).length === 0" class=" text-7xl text-gray-200 py-8">
         No colors found matching your search.
     </div>

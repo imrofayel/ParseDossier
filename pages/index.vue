@@ -5,6 +5,8 @@
       class="focus:outline-none focus:border-none placeholder:text-gray-300 bg-transparent outline-none rounded text-2xl mt-4 inter"
       placeholder="Type here" />
 
+    <div class="pt-3 text-lg inter ">If you see any missing font size, you can add your own and mention that on your PRs so we can add here.</div>
+
     <div v-for="(value, key) in typographyData" :key="key">
 
       <div
