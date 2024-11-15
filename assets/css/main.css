@@ -48,3 +48,7 @@
 .paragraph {
   @apply text-paragraph leading-relaxed;
 }
+
+body{
+  @apply dark:bg-[#1f2632]
+}
